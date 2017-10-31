@@ -1,6 +1,12 @@
 # media
 Media pack for OpenFaaS graphics
 
+This repository contains our presskit for official logos and media.
+
+You can also use the OpenFaaS logos to create your own SWAG / Stickers and distribute free of charge.
+
+If you are planning an event or meet-up, you can also order stickers form the manufacturer in bulk for a discount.
+
 ## Ordering stickers
 
 ![](https://pbs.twimg.com/media/DJdsYn5UQAAB4Rm.jpg)
@@ -9,7 +15,7 @@ Please use one of the official designs:
 
 * Circular 2.5"x2.5"
 
-https://github.com/openfaas/media/blob/master/OpenFaaS_Sticker_2.5.pdf
+https://github.com/openfaas/media/blob/master/OpenFaaS_10_31_2.5.pdf
 
 * Rectangle 1"x4"
 
