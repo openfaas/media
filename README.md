@@ -7,6 +7,13 @@ You can also use the OpenFaaS logos to create your own SWAG / Stickers and distr
 
 If you are planning an event or meet-up, you can also order stickers form the manufacturer in bulk for a discount.
 
+## Get free credit from StickerMule.com
+
+<a href="https://www.stickermule.com/uk/unlock?ref_id=5304980701">
+  <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="60" src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/small-90e5f24277.jpg" width="234" />
+</a>
+
+
 ## Ordering stickers
 
 ![](https://pbs.twimg.com/media/DJdsYn5UQAAB4Rm.jpg)
