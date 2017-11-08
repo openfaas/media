@@ -10,7 +10,7 @@ If you are planning an event or meet-up then you can order stickers from the man
 
 Official tagline: `Serverless Functions Made Simple`
 
-Twitter brand: @openfaas
+Twitter brand: [@openfaas](https://twitter.com/openfaas)
 
 Hashtags:
 
