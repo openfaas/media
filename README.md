@@ -4,7 +4,7 @@ This repository contains our presskit for official logos and media.
 
 You can also use the OpenFaaS logos to create your own SWAG / Stickers but should distribute them free of charge.
 
-If you are planning an event or meet-up, you can also order stickers form the manufacturer in bulk for a discount.
+If you are planning an event or meet-up then you can order stickers from the manufacturer (below) in bulk for a discount.
 
 ## Taglines & hashtags
 
