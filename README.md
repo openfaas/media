@@ -39,7 +39,7 @@ OpenFaaS t-shirt and stickers
 
 Please use one of the official designs:
 
-* Circular 2.5"x2.5"
+* Circular - either 2"x2" or 2.5"x2.5"
 
 https://github.com/openfaas/media/blob/master/OpenFaaS_10_31_2.5.pdf
 
