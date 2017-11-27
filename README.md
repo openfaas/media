@@ -25,6 +25,10 @@ For more on how OpenFaaS works and its high-level benefits find information in t
 
 For a quote or statement please reach out directly to @alexellisuk or email alex@openfaas.com
 
+## Backers and sponsorship
+
+You can become a project backer for OpenFaaS or Sponsor it by making a pledge through [Patreon](https://www.patreon.com/alexellis).
+
 ## Ordering stickers
 
 *Get free credit from StickerMule.com*
