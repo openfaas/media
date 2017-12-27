@@ -14,9 +14,9 @@ Twitter brand: [@openfaas](https://twitter.com/openfaas)
 
 Hashtags:
 
-* `#SimplyServerless`
 * `#TeamServerless`
 * `#OpenFaaS`
+* `#SimplyServerless`
 
 For more on how OpenFaaS works and its high-level benefits find information in the main README file and website.
 
@@ -27,9 +27,15 @@ For a quote or statement please reach out directly to @alexellisuk or email alex
 
 ## Backers and sponsorship
 
-You can become a project backer for OpenFaaS or Sponsor it by making a pledge through [Patreon](https://www.patreon.com/alexellis).
+If you benefit from Open Source Software (OSS) and OpenFaaS please consider backing the project so that it can remain free and open.
 
-## Ordering stickers
+You can become a project backer for OpenFaaS by making a pledge through [Patreon](https://www.patreon.com/alexellis). There are various rewards available including being listed in the main project repository as a backer.
+
+* [Backers file](https://github.com/openfaas/faas/blob/master/BACKERS.md)
+
+Sponsors can contact the project directly through alex@openfaas.com or back us on [Patreon](https://www.patreon.com/alexellis).
+
+## Ordering your own stickers
 
 *Get free credit from StickerMule.com*
 
@@ -47,6 +53,10 @@ Please use one of the official designs:
 
 https://github.com/openfaas/media/blob/master/OpenFaaS_10_31_2.5.pdf
 
+* Special edition magnet 3"x3"
+
+https://github.com/openfaas/media/blob/master/Mag_10_11_final.pdf
+
 * Rectangle 1"x4"
 
 https://github.com/openfaas/media/blob/master/OpenFaaS_Magnet.pdf
@@ -57,8 +67,14 @@ Or you can get a sample pack of 10 per design for a few dollars from [StickerMul
 
 * T-shirts
 
-Please reach out if you need a bulk order of OpenFaaS t-shirts.
+Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
 
 ## Post a picture with your SWAG!
+
+![](https://pbs.twimg.com/media/DQZwPH8U8AAzjNd.jpg)
+
+![](https://pbs.twimg.com/media/DOJS4BhW4AU9uph.jpg)
+
+![](https://pbs.twimg.com/media/DQUgLSrVoAAWp0p.jpg)
 
 ![](https://pbs.twimg.com/media/DJaLlkJXgAEN-af.jpg)
