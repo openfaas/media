@@ -35,6 +35,12 @@ You can become a project backer for OpenFaaS by making a pledge through [Patreon
 
 Sponsors can contact the project directly through alex@openfaas.com or back us on [Patreon](https://www.patreon.com/alexellis).
 
+## Entities
+
+OpenFaaS Ltd. was registered by Alex Ellis in 2017 to support the OpenFaaS project.
+
+OpenFaaS Ltd. is a registered company in England & Wales with number: 11076587, registered address: Peterborough UK.
+
 ## Ordering your own stickers
 
 *Get free credit from StickerMule.com*
