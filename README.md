@@ -10,13 +10,18 @@ If you are planning an event or meet-up then you can order stickers from the man
 
 Official tagline: `Serverless Functions Made Simple`
 
+Extended version: `Serverless Functions Made Simple for Docker and Kubernetes`.
+
 Twitter brand: [@openfaas](https://twitter.com/openfaas)
 
-Hashtags:
+Trademark(s): OpenFaaS
+
+Brand hashtags:
 
 * `#TeamServerless`
 * `#OpenFaaS`
 * `#SimplyServerless`
+* `#FaaSFriday`
 
 For more on how OpenFaaS works and its high-level benefits find information in the main README file and website.
 
