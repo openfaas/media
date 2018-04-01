@@ -56,7 +56,7 @@ OpenFaaS Ltd. is a registered company in England & Wales with number: 11076587, 
 
 OpenFaaS t-shirt and stickers
 
-![](https://pbs.twimg.com/media/DJdsYn5UQAAB4Rm.jpg)
+![](https://pbs.twimg.com/media/DVdJ9q4XkAUmrfv.jpg:small)
 
 Please use one of the official designs:
 
@@ -70,7 +70,7 @@ https://github.com/openfaas/media/blob/master/Mag_10_11_final.pdf
 
 * Rectangle 1"x4"
 
-https://github.com/openfaas/media/blob/master/OpenFaaS_Magnet.pdf
+https://github.com/openfaas/media/blob/master/OpenFaaS_Magnet_3_1.pdf
 
 If you'd like to put in an order you can get [free credit with this referral link](https://www.stickermule.com/uk/unlock?ref_id=5304980701). Any referral credits we get will be used to buy more stickers for the project.
 
