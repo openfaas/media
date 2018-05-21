@@ -2,7 +2,7 @@
 
 This repository contains our presskit for official logos and media.
 
-You can also use the OpenFaaS logos to create your own SWAG / Stickers but should distribute them free of charge.
+You can also use the OpenFaaS &reg; logos to create your own SWAG / Stickers but should distribute them free of charge.
 
 If you are planning an event or meet-up then you can order stickers from the manufacturer (below) in bulk for a discount.
 
@@ -10,11 +10,13 @@ If you are planning an event or meet-up then you can order stickers from the man
 
 Official tagline: `Serverless Functions Made Simple`
 
-Extended version: `Serverless Functions Made Simple for Docker and Kubernetes`.
+Extended version: `Serverless Functions Made Simple for [Docker and] Kubernetes`.
 
-Twitter brand: [@openfaas](https://twitter.com/openfaas)
+Twitter account: [@openfaas](https://twitter.com/openfaas)
 
-Trademark(s): OpenFaaS
+Trademark(s): OpenFaaS &reg;
+
+OpenFaaS &reg; is a registered trademark within the U.K.
 
 Brand hashtags:
 
@@ -28,7 +30,11 @@ For more on how OpenFaaS works and its high-level benefits find information in t
 * [README](https://github.com/openfaas/faas)
 * [Website](https://www.openfaas.com)
 
-For a quote or statement please reach out directly to @alexellisuk or email alex@openfaas.com
+For a quote or statement please reach out directly to [@alexellisuk](https://twitter.com/alexellisuk) or email alex@openfaas.com
+
+## FaaSFriday campaign/contest
+
+The #FaaSFriday hashtag is a campaign for the community to share ideas, learnings and cool hacks made with OpenFaaS. For the best or more creative ideas SWAG items may be sent with a value of less than 10 USD such as a t-shirt, stickers, magnets or pin badges. If you'd like to take part you should take a photo of your screen or laptop with your entry present, this is to create a human and intentional element rather than showing a computer-generated screenshot.
 
 ## Backers and sponsorship
 
@@ -42,9 +48,11 @@ Sponsors can contact the project directly through alex@openfaas.com or back us o
 
 ## Entities
 
-OpenFaaS Ltd. was registered by Alex Ellis in 2017 to support the OpenFaaS project.
+OpenFaaS Ltd. was registered by Alex Ellis in 2017 to support the OpenFaaS project and community.
 
 OpenFaaS Ltd. is a registered company in England & Wales with number: 11076587, registered address: Peterborough UK.
+
+OpenFaaS &reg; was registered in the UK Feb 2018 and OpenFaaS has been in use by the project since 2017.
 
 ## Ordering your own stickers
 
@@ -79,6 +87,9 @@ Or you can get a sample pack of 10 per design for a few dollars from [StickerMul
 * T-shirts
 
 Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
+
+Front design: Stacked logo with text OpenFaaS
+Back design: Over two lines: #serverless / www.openfaas.com (in large, black print)
 
 ## Post a picture with your SWAG!
 
