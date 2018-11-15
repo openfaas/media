@@ -1,4 +1,4 @@
 ## OpenFaaS Core group & members shirt
 
-![Front](https://twitter.com/ewilde/status/1061953219734265856)
+![Front](https://pbs.twimg.com/media/DrzQ0foX0AAJwaH.jpg)
 
