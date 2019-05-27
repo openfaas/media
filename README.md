@@ -52,7 +52,7 @@ For a quote or statement please reach out directly to the Director of OpenFaaS L
 
 ## Statistics for use in press / published materials
 
-Looking for statistics? This project does not use a mono-repo, but is split across several components. Use [Ken Fukuyama's dashboard]a(https://kenfdev.o6s.io/github-stats-page) to gather accurate counts on contributors, stars and forks across the [GitHub organisation](https://github.com/openfaas).
+Looking for statistics? This project does not use a mono-repo, but is split across several components. Use [Ken Fukuyama's dashboard](https://kenfdev.o6s.io/github-stats-page) to gather accurate counts on contributors, stars and forks across the [GitHub organisation](https://github.com/openfaas).
 
 > Note: Incubator projects are not counted in these totals and are hosted under [openfaas-incubator](https://github.com/openfaas-incubator) awaiting graduation.
 
