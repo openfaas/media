@@ -58,10 +58,16 @@ Sponsors can contact the project directly through alex@openfaas.com or back us o
 
 ### Ordering your own stickers
 
+The easiest way to get your own stickers is to order directly from StickerMule using one of the PDF designs below.
+
+1) Pick a design
+2) Sign-up with the credit below
+3) Order stickers as a sample or a larger order for an event / meet-up group or your team
+
 *Get free credit from StickerMule.com*
 
 <a href="https://www.stickermule.com/uk/unlock?ref_id=5304980701">
-  <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="60" src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/small-90e5f24277.jpg" width="234" />
+  <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" src="https://res.cloudinary.com/print-bear/image/upload/v1531752798/banners/stickermule-invite-friends-medium.jpg" />
 </a>
 
 OpenFaaS t-shirt and stickers
