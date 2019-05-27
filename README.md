@@ -40,11 +40,17 @@ For more on how OpenFaaS works and its high-level benefits find information in t
 
 For a quote or statement please reach out directly to [@alexellisuk](https://twitter.com/alexellisuk) or email alex@openfaas.com
 
+## Statistics for use in press / published materials
+
+Looking for statistics? This project does not use a mono-repo, but is split across several components. Use [Ken Fukuyama's dashboard]a(https://kenfdev.o6s.io/github-stats-page) to gather accurate counts on contributors, stars and forks across the [GitHub organisation](https://github.com/openfaas).
+
+> Note: Incubator projects are not counted in these totals and are hosted under [openfaas-incubator](https://github.com/openfaas-incubator) awaiting graduation.
+
 ## FaaSFriday campaign/contest
 
 The #FaaSFriday hashtag is a campaign for the community to share ideas, learnings and cool hacks made with OpenFaaS. For the best or more creative ideas SWAG items may be sent with a value of less than 10 USD such as a t-shirt, stickers, magnets or pin badges. If you'd like to take part you should take a photo of your screen or laptop with your entry present, this is to create a human and intentional element rather than showing a computer-generated screenshot.
 
-## Backers and sponsorship
+## Support the project as a backer or sponsor
 
 If you benefit from Open Source Software (OSS) and OpenFaaS please consider backing the project so that it can remain free and open.
 
