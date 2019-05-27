@@ -32,13 +32,23 @@ Brand hashtags:
 * `#OpenFaaS`
 * `#SimplyServerless`
 * `#FaaSFriday`
+* `#OpenFaaSCloud`
 
-For more on how OpenFaaS works and its high-level benefits find information in the main README file and website.
+Twitter accounts:
 
-* [README](https://github.com/openfaas/faas)
+* [`@OpenFaaS`](https://twitter.com/openfaas)
+* [`@OpenFaaSCloud`](https://twitter.com/openfaascloud)
+
+Accepted abbreviations of terms:
+
+* `OpenFaaS` -> `OF`
+* `OpenFaaS Cloud` -> `OFC`
+
+Website:
+
 * [Website](https://www.openfaas.com)
 
-For a quote or statement please reach out directly to [@alexellisuk](https://twitter.com/alexellisuk) or email alex@openfaas.com
+For a quote or statement please reach out directly to the Director of OpenFaaS Ltd, Alex Ellis via: alex@openfaas.com.
 
 ## Statistics for use in press / published materials
 
