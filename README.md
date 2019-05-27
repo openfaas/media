@@ -1,10 +1,18 @@
 # media
 
-This repository contains our presskit for official logos and media.
+This repository contains the OpenFaaS Ltd press-kit for official logos and media.
 
 You can also use the OpenFaaS &reg; logos to create your own SWAG / Stickers but should distribute them free of charge.
 
 If you are planning an event or meet-up then you can order stickers from the manufacturer (below) in bulk for a discount.
+
+## Entities
+
+OpenFaaS Ltd. was registered by Alex Ellis in 2017 to support the OpenFaaS project and community.
+
+OpenFaaS Ltd. is a registered company in England & Wales with number: 11076587, registered address: Peterborough UK.
+
+OpenFaaS &reg; was registered in the UK Feb 2018 and OpenFaaS has been in use by the project since 2017.
 
 ## Taglines & hashtags
 
@@ -46,15 +54,9 @@ You can become a project backer for OpenFaaS by making a pledge through [Patreon
 
 Sponsors can contact the project directly through alex@openfaas.com or back us on [Patreon](https://www.patreon.com/alexellis).
 
-## Entities
+## Get your own swag
 
-OpenFaaS Ltd. was registered by Alex Ellis in 2017 to support the OpenFaaS project and community.
-
-OpenFaaS Ltd. is a registered company in England & Wales with number: 11076587, registered address: Peterborough UK.
-
-OpenFaaS &reg; was registered in the UK Feb 2018 and OpenFaaS has been in use by the project since 2017.
-
-## Ordering your own stickers
+### Ordering your own stickers
 
 *Get free credit from StickerMule.com*
 
@@ -84,14 +86,35 @@ If you'd like to put in an order you can get [free credit with this referral lin
 
 Or you can get a sample pack of 10 per design for a few dollars from [StickerMule](https://www.stickermule.com/samples/stickers).
 
-* T-shirts
+### Order a t-shirt
 
 Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
 
-Front design: Stacked logo with text OpenFaaS
-Back design: Over two lines: #serverless / www.openfaas.com (in large, black print)
+#### Black t-shirt with large logo
 
-## Post a picture with your SWAG!
+![](https://pbs.twimg.com/media/D5-huv3XkAAnTU_.jpg:large)
+
+[View design](./t-shirts/classic/)
+
+#### Black t-shirt with small logo
+
+![](https://pbs.twimg.com/media/D7M7XxaWkAo2kXi.jpg)
+
+[View design](./t-shirts/fall-2018/)
+
+#### Gray t-shirt (classic look)
+
+![](https://pbs.twimg.com/media/D5aRRVYWAAUdQ2K.jpg)
+
+[View design](./t-shirts/classic/)
+
+### Community Swag - post a picture!
+
+![Pato](https://pbs.twimg.com/media/DuWI-I3UYAAxz0l.jpg)
+
+![Richard Gee](https://pbs.twimg.com/media/D5_YsRtX4AcaBvi.jpg)
+
+![Tom Shaw](https://pbs.twimg.com/media/Dw-KvQFWoAETDrN.jpg)
 
 ![](https://pbs.twimg.com/media/DQZwPH8U8AAzjNd.jpg)
 
