@@ -60,15 +60,26 @@ Looking for statistics? This project does not use a mono-repo, but is split acro
 
 The #FaaSFriday hashtag is a campaign for the community to share ideas, learnings and cool hacks made with OpenFaaS. For the best or more creative ideas SWAG items may be sent with a value of less than 10 USD such as a t-shirt, stickers, magnets or pin badges. If you'd like to take part you should take a photo of your screen or laptop with your entry present, this is to create a human and intentional element rather than showing a computer-generated screenshot.
 
+See [past entries](https://twitter.com/hashtag/faasfriday?f=images&vertical=default&lang=en)
+
+## Insiders and insider updates
+
+You can become an insider and get regular insider updates from Alex. Updates include news about new features, fixes, blog posts, videos and upcoming events.
+
+Become an insider by [sponsoring Alex on GitHub](https://github.com/users/alexellis/sponsorship)
+
 ## Support the project as a backer or sponsor
 
-If you benefit from Open Source Software (OSS) and OpenFaaS please consider backing the project so that it can remain free and open.
+OpenFaaS is licensed as MIT and completely Open Source and free to use. However the amount of effort needed to maintain and develop new features is not sustainable without proper financial backing.
 
-You can become a project backer for OpenFaaS by making a pledge through [Patreon](https://www.patreon.com/alexellis). There are various rewards available including being listed in the main project repository as a backer.
+### openfaas.com website sponsorship
 
-* [Backers file](https://github.com/openfaas/faas/blob/master/BACKERS.md)
+Both tiers come with a logo on the homepage [openfaas.com](https://www.openfaas.com/)
 
-Sponsors can contact the project directly through alex@openfaas.com or back us on [Patreon](https://www.patreon.com/alexellis).
+* Gold is available from 500 USD / mo (smaller logo)
+* *Platinum* is avaialble from 1500 / mo (normal-sized logo)
+
+Payable by invoice to OpenFaaS Ltd, or via [GitHub sponsorship](https://github.com/users/alexellis/sponsorship).
 
 ## Get your own swag
 
