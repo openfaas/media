@@ -83,7 +83,7 @@ Payable by invoice to OpenFaaS Ltd, or via [GitHub sponsorship](https://github.c
 
 ## Get your own swag
 
-### Ordering your own stickers
+### Self-service stickers
 
 The easiest way to get your own stickers is to order directly from StickerMule using one of the PDF designs below.
 
@@ -122,6 +122,22 @@ Or you can get a sample pack of 10 per design for a few dollars from [StickerMul
 ### Order a t-shirt
 
 Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
+
+### eBay store
+
+You can buy via the eBay store which is fulfilled by Printful.com. Orders are shipped globally from the EU or the USA depending on available stock. Payment is in USD.
+
+* [OpenFaaS 2019 NEW limited-edition t-shirt](https://www.ebay.co.uk/itm/233299091540)
+
+* [OpenFaaS 2019 Hoodie](https://www.ebay.co.uk/itm/233299119878)
+
+* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/233299084192)
+
+### Self-service
+
+Compatible with Vistaprint.com or Printful.com
+
+Use the [Vistaprint.com referral link](http://reward.vistaprint.com/go.axd?ref=FCYPG7) for 20GBP off 40GBP spend
 
 #### Black t-shirt with large logo
 
