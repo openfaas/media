@@ -127,11 +127,11 @@ Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
 
 You can buy via the eBay store which is fulfilled by Printful.com. Orders are shipped globally from the EU or the USA depending on available stock. Payment is in USD.
 
-* [OpenFaaS 2019 NEW limited-edition t-shirt](https://www.ebay.co.uk/itm/233299091540)
+* [OpenFaaS 2019 NEW limited-edition t-shirt](https://www.ebay.co.uk/itm/143345974000)
 
-* [OpenFaaS 2019 Hoodie](https://www.ebay.co.uk/itm/233299119878)
+* [OpenFaaS 2019 Hoodie](https://www.ebay.co.uk/itm/143345979088)
 
-* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/233299084192)
+* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/143345982391
 
 ### Self-service
 
