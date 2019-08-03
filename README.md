@@ -131,7 +131,7 @@ You can buy via the eBay store which is fulfilled by Printful.com. Orders are sh
 
 * [OpenFaaS 2019 Hoodie](https://www.ebay.co.uk/itm/143345979088)
 
-* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/143345982391
+* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/143345982391)
 
 ### Self-service
 
