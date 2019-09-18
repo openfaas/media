@@ -97,6 +97,8 @@ The easiest way to get your own stickers is to order directly from StickerMule u
   <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" src="https://res.cloudinary.com/print-bear/image/upload/v1531752798/banners/stickermule-invite-friends-medium.jpg" />
 </a>
 
+## Self-service t-shirts / hoodies
+
 OpenFaaS t-shirt and stickers
 
 ![](https://pbs.twimg.com/media/DVdJ9q4XkAUmrfv.jpg:small)
@@ -119,13 +121,15 @@ If you'd like to put in an order you can get [free credit with this referral lin
 
 Or you can get a sample pack of 10 per design for a few dollars from [StickerMule](https://www.stickermule.com/samples/stickers).
 
-### Order a t-shirt
+### Order a t-shirt / hoodie
 
-Please reach out if you need a bulk order of OpenFaaS t-shirts for an event.
+Please reach out if you need a bulk order of OpenFaaS t-shirts for an event to place an order with OpenFaaS Ltd.
+
+If you want to create t-shirts or hoodies for your own brand, try [Printful.com using the OpenFaaS referral code](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160).
 
 ### eBay store
 
-You can buy via the eBay store which is fulfilled by Printful.com. Orders are shipped globally from the EU or the USA depending on available stock. Payment is in USD.
+You can buy via the eBay store which is fulfilled by [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160). Orders are shipped globally from the EU or the USA depending on available stock. Payment is in USD.
 
 * [OpenFaaS 2019 NEW limited-edition t-shirt](https://www.ebay.co.uk/itm/143345974000)
 
@@ -135,7 +139,7 @@ You can buy via the eBay store which is fulfilled by Printful.com. Orders are sh
 
 ### Self-service
 
-Compatible with Vistaprint.com or Printful.com
+Compatible with [Vistaprint.com](http://reward.vistaprint.com/go.axd?ref=FCYPG7) or [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160)
 
 Use the [Vistaprint.com referral link](http://reward.vistaprint.com/go.axd?ref=FCYPG7) for 20GBP off 40GBP spend
 
