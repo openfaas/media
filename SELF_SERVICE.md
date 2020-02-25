@@ -44,21 +44,26 @@ Please reach out if you need a bulk order of OpenFaaS t-shirts for an event to p
 
 If you want to create t-shirts or hoodies for your own brand, try [Printful.com using the OpenFaaS referral code](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160).
 
-### eBay store
+### Buy from our store
 
-You can buy via the eBay store which is fulfilled by [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160). Orders are shipped globally from the EU or the USA depending on available stock. Payment is in USD.
+You can buy via the OpenFaaS store on Gumroad which is fulfilled by [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160). Orders are shipped globally from the EU or the USA depending on available stock.
 
-* [OpenFaaS 2019 NEW limited-edition t-shirt](https://www.ebay.co.uk/itm/143345974000)
+Products:
 
-* [OpenFaaS 2019 Hoodie](https://www.ebay.co.uk/itm/143345979088)
+* OpenFaaS/inlets hoodie
+* OpenFaaS/inlets t-shirt
+* OpenFaaS/inlets mug
 
-* [OpenFaaS 2019 Jacket](https://www.ebay.co.uk/itm/143345982391)
+Visit the store: [https://gumroad.com/openfaas](https://gumroad.com/openfaas)
 
 ### Self-service
 
-Compatible with [Vistaprint.com](http://reward.vistaprint.com/go.axd?ref=FCYPG7) or [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160)
+You can also buy your own SWAG and make your own orders for your own brand or project:
 
-Use the [Vistaprint.com referral link](http://reward.vistaprint.com/go.axd?ref=FCYPG7) for 20GBP off 40GBP spend
+Use our referral code for money off and to support the community:
+
+* [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160) (recommended)
+* [Vistaprint.com](http://reward.vistaprint.com/go.axd?ref=FCYPG7)
 
 #### Black t-shirt with large logo
 
