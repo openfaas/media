@@ -46,7 +46,7 @@ If you want to create t-shirts or hoodies for your own brand, try [Printful.com 
 
 ### Buy from our store
 
-You can buy via the OpenFaaS store on Gumroad which is fulfilled by [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160). Orders are shipped globally from the EU or the USA depending on available stock.
+You can buy via the OpenFaaS store which is fulfilled by [Printful.com](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160). Orders are shipped globally from the EU or the USA depending on available stock.
 
 Products:
 
@@ -54,7 +54,7 @@ Products:
 * OpenFaaS/inlets t-shirt
 * OpenFaaS/inlets mug
 
-Visit the store: [https://gumroad.com/openfaas](https://gumroad.com/openfaas)
+Visit the store: [https://store.openfaas.com](https://store.openfaas.com)
 
 ### Self-service
 

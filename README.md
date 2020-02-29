@@ -74,9 +74,9 @@ You can purchase a website sponsorship and have your logo listed on the homepage
 
 * [Buy a sponsorship now](https://www.openfaas.com/support)
 
-### Buy an OpenFaaS or inlets t-shirt
+### Buy an OpenFaaS or inlets t-shirt, hoodie, or mug
 
-* [Buy now on gumroad](https://gumroad.com/openfaas)
+* [Buy now from our store](https://store.openfaas.com)
 
 For a bulk order, please contact [sales@openfaas.com](mailto:sales@openfaas.com)
 
