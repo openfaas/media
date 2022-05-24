@@ -72,6 +72,11 @@ You can purchase a website sponsorship and have your logo listed on the homepage
 
 To order stickers or other merchandise like hoodies, t-shirts or mugs for your team, please reach out to us via email: [contact@openfaas.com](mailto:contact@openfaas.com)
 
+For individual items for personal use only, you can use our [Printful referral code](https://www.printful.com/a/1399036:78934bd81b93204507d29fecae49d160).
+
+For hoodies - American Apparel using embroidery
+For t-shirts - use Bella Canvas or Gildan Soft Cotton with print
+
 ### Buy stickers
 
 *Get free credit from StickerMule.com*
