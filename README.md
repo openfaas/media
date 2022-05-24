@@ -62,23 +62,15 @@ The #FaaSFriday hashtag is a campaign for the community to share ideas, learning
 
 See [past entries](https://twitter.com/hashtag/faasfriday?f=images&vertical=default&lang=en)
 
-## Buy an OpenFaaS Insiders Subscription
-
-Get exclusive updates & news on features, security, patches, discounts and upcoming events.
-
-* [Buy an OpenFaaS Insiders Subscription](https://www.openfaas.com/support/)
-
 ### openfaas.com website sponsorship
 
 You can purchase a website sponsorship and have your logo listed on the homepage. Companies select openfaas.com to connect their brand with a thriving cloud native developer community and to expand their reach.
 
-* [Buy a sponsorship now](https://www.openfaas.com/support)
+* [Contact us](mailto:contact@openfaas.com)
 
 ### Buy an OpenFaaS or inlets t-shirt, hoodie, or mug
 
-* [Buy now from our store](https://store.openfaas.com)
-
-For a bulk order, please contact [sales@openfaas.com](mailto:sales@openfaas.com)
+To order stickers or other merchandise like hoodies, t-shirts or mugs for your team, please reach out to us via email: [contact@openfaas.com](mailto:contact@openfaas.com)
 
 ### Buy stickers
 
